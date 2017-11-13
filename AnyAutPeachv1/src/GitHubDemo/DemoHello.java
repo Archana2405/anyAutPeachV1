@@ -14,10 +14,6 @@ public class DemoHello {
 
 			System.out.format("Hello,\n",name);
 
-
-			System.out.println("Second modification");
-
-
 		}
 
 		//Committed code and pushing it
