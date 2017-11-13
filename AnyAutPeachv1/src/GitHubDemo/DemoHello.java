@@ -5,16 +5,15 @@ public class DemoHello {
 	public static void main(String[] args) {
 
 
-		String[] names={"Bob", "Sam","Mary"};
+		String[] names={"Bob", "Sam","Mary", "Sun","Mon"};
 
 				
 		//Workspace 2
 		
-		for(int i;i<names[i];i++)
+		for(String name:names)
 		{
-
-			System.out.format("Hello,\n",names[i]);
-
+			
+			System.out.println("Names="+ names[name])
 			System.out.println("Second modification but not committed");
 
 
