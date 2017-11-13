@@ -4,7 +4,7 @@ public class DemoHello {
 
 	public static void main(String[] args) {
 
-		String[] names={"Bob", "Sam","Mary", "sun"};
+		String[] names={"Bob", "Sam","Mary"};
 
 		
 		//Workspace 2
@@ -14,7 +14,7 @@ public class DemoHello {
 
 			System.out.format("Hello,\n",name);
 
-			System.out.println("Second modification");
+			System.out.println("Second modification but not committed");
 
 
 		}
