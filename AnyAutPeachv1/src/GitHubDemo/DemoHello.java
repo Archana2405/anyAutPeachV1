@@ -10,8 +10,7 @@ public class DemoHello {
 		{
 			System.out.format("Hello,\n",names[i]);
 		}
-		//Committed code before
-
+		
 	}
 
 }
