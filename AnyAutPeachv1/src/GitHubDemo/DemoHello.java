@@ -3,7 +3,7 @@ package GitHubDemo;
 public class DemoHello {
 
 	public static void main(String[] args) {
-		String[] names={"Bob", "Sam","Mary", "James", "Jay"};
+		String[] names={"Bob", "Sam","Mary"};
 		
 		//Another commit without pull
 		for(int i=0;i<names.length;i++)
