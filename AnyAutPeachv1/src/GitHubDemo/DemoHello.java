@@ -7,13 +7,14 @@ public class DemoHello {
 		String[] names={"Bob", "Sam","Mary", "Sun","Nan", "Mon"};
 
 		
-		//Adding comment with no pull
+		//Workspace 2
+		
 		for(int i=0;i<names.length;i++)
 		{
 			System.out.format("Hello,\n",names[i]);
 		}
 
-		//Committed code before
+		//Committed code and pushing it
 
 	}
 }
