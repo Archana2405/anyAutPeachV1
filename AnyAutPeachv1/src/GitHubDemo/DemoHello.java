@@ -14,7 +14,7 @@ public class DemoHello {
 
 			System.out.format("Hello,\n",name);
 
-			System.out.println("Committed code and pushing it");
+			System.out.println("Second modification");
 
 		}
 
