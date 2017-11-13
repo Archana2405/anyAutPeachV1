@@ -4,18 +4,17 @@ public class DemoHello {
 
 	public static void main(String[] args) {
 
-		String[] names={"Bob", "Sam","Mary", "sun"};
+		String[] names={"Bob", "Sam","Mary", "sun", "Mon", "Tues"};
 
 		
 		//Workspace 2
 		
-		for(String name:names)
+		for(int i;i<names[i];i++)
 		{
 
-			System.out.format("Hello,\n",name);
+			System.out.format("Hello,\n",names[i]);
 
-			System.out.println("Second modification");
-
+			
 
 		}
 
