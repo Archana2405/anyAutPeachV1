@@ -4,7 +4,7 @@ public class DemoHello {
 
 	public static void main(String[] args) {
 
-		String[] names={"Bob", "Sam","Mary"};
+		String[] names={"Bob", "Sam","Mary","Ruby","Sun"};
 
 		
 		//Workspace 2
@@ -12,6 +12,7 @@ public class DemoHello {
 		for(int i=0;i<names.length;i++)
 		{
 			System.out.format("Hello,\n",names[i]);
+			System.out.println("Committed code and pushing it");
 		}
 
 		//Committed code and pushing it
