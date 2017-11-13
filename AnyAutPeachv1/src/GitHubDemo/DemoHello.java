@@ -4,7 +4,7 @@ public class DemoHello {
 
 	public static void main(String[] args) {
 
-		String[] names={"Bob", "Sam","Mary", "Sun","Nan"};
+		String[] names={"Bob", "Sam","Mary", "Sun","Nan", "Mon"};
 
 		
 		//Adding comment with no pull
