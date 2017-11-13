@@ -9,9 +9,9 @@ public class DemoHello {
 		
 		//Workspace 2
 		
-		for(int i=0;i<names.length;i++)
+		for(String name:names)
 		{
-			System.out.format("Hello,\n",names[i]);
+			System.out.format("Hello,\n",name);
 		}
 
 		//Committed code and pushing it
