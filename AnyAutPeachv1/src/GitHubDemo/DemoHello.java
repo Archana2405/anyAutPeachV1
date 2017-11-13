@@ -10,12 +10,14 @@ public class DemoHello {
 				
 		//Workspace 2
 		
-		for(String name:names)
+		for(int i=0;i<names[i];i++)
 		{
 
 			System.out.format("Hello,\n",names[i]);
 
+
 			System.out.println("Second modification and committed");
+
 
 
 
