@@ -5,7 +5,7 @@ public class DemoHello {
 	public static void main(String[] args) {
 
 
-		String[] names={"Bob", "Sam","Mary", "Sun","Mon"};
+		String[] names={"Bob", "Sam","Mary"};
 
 				
 		//Workspace 2
