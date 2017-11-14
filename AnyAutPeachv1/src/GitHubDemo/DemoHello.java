@@ -5,7 +5,7 @@ public class DemoHello {
 	public static void main(String[] args) {
 
 
-		String[] names={"Bob", "Sam","Mary"};
+		String[] names={"Bob", "Sam","Mary", "Sun", "Mon"};
 
 				
 		//Workspace 2
@@ -14,6 +14,7 @@ public class DemoHello {
 		{
 
 			System.out.format("Hello,\n",names[i]);
+			System.out.println("How are you?")
 
 
 	}
