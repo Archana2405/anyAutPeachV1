@@ -10,12 +10,11 @@ public class DemoHello {
 				
 		//Workspace 2
 		
-		for(int i=0;i<names[i];i++)
+		for(String name:names)
 		{
 
-			System.out.format("Hello,\n",names[i]);
 			System.out.println("How are you?")
-
+			System.out.format("Hello,\n",name);
 
 	}
 }
