@@ -15,6 +15,7 @@ public class DemoHello {
 
 			System.out.println("How are you?")
 			System.out.format("Hello,\n",name);
+			System.out.print("Test");
 
 	}
 }
